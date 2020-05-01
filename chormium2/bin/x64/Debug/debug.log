@@ -455,3 +455,8 @@ Make sure to turn on production mode when deploying for production.
 See more tips at https://vuejs.org/guide/deployment.html", source: https://cdn.jsdelivr.net/npm/vue/dist/vue.js (9064)
 [0501/174922.847:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
 [0501/174923.447:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2385726&username=2385726&cm=1&server_id=S55&time=1588348061&server_name=S55&flag=6a06f6f3da2dcb4e57d935b10263809c (16)
+[0501/190701.985:INFO:CONSOLE(9055)] "Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools", source: https://cdn.jsdelivr.net/npm/vue/dist/vue.js (9055)
+[0501/190701.999:INFO:CONSOLE(9064)] "You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html", source: https://cdn.jsdelivr.net/npm/vue/dist/vue.js (9064)
