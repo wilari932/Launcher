@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chormium2", "chormium2\chormium2.csproj", "{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{0476239E-A40D-46E6-9D9F-A34770A0A5DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|x64 = All|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.All|Any CPU.Build.0 = Release|Any CPU
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.All|x64.ActiveCfg = Release|x64
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.All|x64.Build.0 = Release|x64
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Debug|x64.ActiveCfg = Debug|x64
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Debug|x64.Build.0 = Debug|x64
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Release|x64.ActiveCfg = Release|x64
+		{17F10781-07D6-438D-9DBD-7B58BE9EC9AF}.Release|x64.Build.0 = Release|x64
+		{0476239E-A40D-46E6-9D9F-A34770A0A5DC}.All|Any CPU.ActiveCfg = Release
+		{0476239E-A40D-46E6-9D9F-A34770A0A5DC}.All|x64.ActiveCfg = Release
+		{0476239E-A40D-46E6-9D9F-A34770A0A5DC}.Debug|Any CPU.ActiveCfg = Debug
+		{0476239E-A40D-46E6-9D9F-A34770A0A5DC}.Debug|x64.ActiveCfg = Debug
+		{0476239E-A40D-46E6-9D9F-A34770A0A5DC}.Release|Any CPU.ActiveCfg = Release
+		{0476239E-A40D-46E6-9D9F-A34770A0A5DC}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DFC5F6B-9541-4A2B-AEE6-210D015D7175}
+	EndGlobalSection
+EndGlobal
